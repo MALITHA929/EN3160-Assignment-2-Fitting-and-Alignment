@@ -10,8 +10,4 @@
 | Q3 | Image overlay | 4-point homography, perspective warp, alpha blending |
 | Q4 | PCB alignment | SIFT, BFMatcher + ratio test, RANSAC homography |
 
-## Run
-pip install -r requirements.txt
-jupyter notebook en3160_a02.ipynb
 
-Q3 point-clicking uses an OpenCV window, so run the notebook locally (not in Colab).
